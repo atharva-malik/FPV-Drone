@@ -65,3 +65,18 @@ Moving on to the top part, I wanted something simple and professional to match t
 I added filets to the text at the top as well, to match the round-ish aesthetic of the bottom part. Overall I am very happy with the design so far, and I think it will work well. The next step was to model the motor guards and the GoPro mount. That was not that hard, and I will not bore you with the details. All of these models are attached to the 3D Models folder in the repository.
 
 **Total time spent: 6h**
+
+## May 8th: Resubmitting with more Images
+As @Cyao pointed out, I did not have enough images in my repo, so I will be adding more images to the repo along with more thorough explanations of design choices of the carrying case.
+
+### 1. Case Design Explanation
+Something that might be better explained with the following image (excusing my horrible drawing skills):
+![Illustrated Model](img/3d_model_illustrated.jpg)
+The case is designed to hold *everything* you would take on a field trip. The hardest part to cater for was the Props, as they are quite long and would not fit in a normal case. Therefore, I had to design the case to hold them on the sides, which is why the case is so tall. They are 5 inch props (5 in diameter), so I decided to make a similar mount as to the motor, which is why there is a protrusion on the side. Rest everything should fit in as illustrated in the image above.
+
+### 2. Latch Mechanism Explanation
+The satisfying click that I was craving was achieved by having a lip on the top part of the case and a groove on the bottom part. As mentioned above, I started with a flat cross-section, as shown in Fig. 1:
+![Latch Diagrams](img/latch.jpg)
+However, I quickly realised that this would not work, as the filament would not bend enough for the lip to be able to slide down into the groove. Therefore, I redesigned it to have a slope, which would allow the filament to bend more easily. This is shown in Fig. 2
+
+**Total time spent: 2h**
