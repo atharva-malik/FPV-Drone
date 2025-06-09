@@ -80,3 +80,6 @@ The satisfying click that I was craving was achieved by having a lip on the top 
 However, I quickly realised that this would not work, as the filament would not bend enough for the lip to be able to slide down into the groove. Therefore, I redesigned it to have a slope, which would allow the filament to bend more easily. This is shown in Fig. 2
 
 **Total time spent: 2h**
+
+# May 9th: Made more 3D Models
+At @Cyao's suggestion, I made more 3D models of the drone. These are proof of concept models, and are not the final models. They are designed to show how the drone will look like when it is finished. The dimensions will be perfected once I have the parts at hand, but for now, these models should give a good idea of how the drone will look like. All pics for them can be found in the [img folder](img/poc/).
