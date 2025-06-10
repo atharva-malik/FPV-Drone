@@ -83,3 +83,14 @@ However, I quickly realised that this would not work, as the filament would not 
 
 # May 9th: Made more 3D Models
 At @Cyao's suggestion, I made more 3D models of the drone. These are proof of concept models, and are not the final models. They are designed to show how the drone will look like when it is finished. The dimensions will be perfected once I have the parts at hand, but for now, these models should give a good idea of how the drone will look like. All pics for them can be found in the [img folder](img/poc/).
+
+**Total time spent: 3h**
+
+# May 10th: Modelled and Sculpted the Drone
+Since @Cyao was insistent on having a 3D model of the drone, I decided to model it in Blender. It was a long process, but I am happy with the result. I chose Blender over OnShape as I am more comfortable with it, and thought it will allow better looking model. This is the result.
+![Drone](img/POC/Drone.png)
+Also, side note, I imported it into OnShape as I like the default texturing better than Blender's static grey.
+
+I also added all of these images in README.md, so you can see them there as well.
+
+**Total time spent: 7h**

@@ -16,6 +16,24 @@ For the firmware, I will be using the tried and tested [BetaFlight](https://beta
 # 3D Printed Parts
 The 3D printed parts are all under the 3D Models folder in the repository. It contains the STL files for a carrying case, the GoPro mount, and the motor guards. Other parts that require finer measurements will be added once the drone is built and tested. The 3D printed parts are designed to be printed with standard PLA filament, but there might be some TPU parts in the future for added flexibility and durability.
 
+# 3D Model
+![Drone](img/POC/Drone.png)
+The 3D model of the drone is available in the [3D Models](/3D%20Models/Proof%20of%20Concept/). Do not use it to print as the dimensions might not work out!
+
+# Images
+![2d Sketch](img/2d_sketch.png)
+![3D Model Bottom](img/3d_model_bottom.png)
+![3D Model Top](img/3d_model_top.png)
+![3D Model Illustrated](img/3d_model_illustrated.jpg)
+![Latch Diagrams](img/latch.jpg)
+## Proof of Concept
+![Analog Transmitter](img/POC/Analog%20Transmitter%20Mount.png)
+![Back Plate with XT60](img/POC/Backplate%20(XT60%20Connector).png)
+![GPS - Flat Mount](img/POC/GPS%20-%20Flat%20Mount.png)
+![GPS Mount - High](img/POC/GPS%20Mount%20High.png)
+![M10 GPS Mount](img/POC/M10%20-%20GPS%20Mount.png)
+
+
 # Credits
 The image of the drone is from [MantisFPV](mantisfpv.com.au).
 
