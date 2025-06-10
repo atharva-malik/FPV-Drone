@@ -3,7 +3,7 @@ There are tons of FPV drones out there, but I wanted to make one that is differe
 <p align="center">
   <img src="img/drone.png" />
 </p>
-Since there is no CAD model of the drone, I have attached a picture of the look that I am going for. I will replace this with the finished build once it is done.
+I have attached the picture of the look that I am going for. I will replace this with the finished build once it is done.
 
 # BOM
 The BOM is available in the [BOM.csv](BOM.csv) file. It contains all the parts required to build the drone, along with links to where they can be purchased. On a glance:
