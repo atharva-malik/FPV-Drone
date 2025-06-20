@@ -103,3 +103,4 @@ The main problem, along with taking care of all of the measurements, was to addr
 Overall, while it may not look like much, I am proud of this design and am surprised by how much thought needs to be put in when designing and considering the placements of parts.
 
 **Total time spent: 7h**
+![alt text](image.png)

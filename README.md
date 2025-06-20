@@ -21,7 +21,6 @@ The 3D printed parts are all under the 3D Models folder in the repository. It co
 The 3D model of the drone is available in the [3D Models](/3D%20Models/Proof%20of%20Concept/). Do not use it to print as the dimensions might not work out!
 
 # Images
-![2d Sketch](img/2d_sketch.png)
 ![3D Model Bottom](img/3d_model_bottom.png)
 ![3D Model Top](img/3d_model_top.png)
 ![3D Model Illustrated](img/3d_model_illustrated.jpg)
@@ -33,6 +32,8 @@ The 3D model of the drone is available in the [3D Models](/3D%20Models/Proof%20o
 ![GPS Mount - High](img/POC/GPS%20Mount%20High.png)
 ![M10 GPS Mount](img/POC/M10%20-%20GPS%20Mount.png)
 
+# Frame Design
+![Frame](img/frame.png)
 
 # Credits
 The image of the drone is from [MantisFPV](mantisfpv.com.au).
