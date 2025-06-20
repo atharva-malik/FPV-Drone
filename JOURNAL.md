@@ -94,3 +94,12 @@ Also, side note, I imported it into OnShape as I like the default texturing bett
 I also added all of these images in README.md, so you can see them there as well.
 
 **Total time spent: 7h**
+
+# May 17th-20th: Modelled the Drone Frame and Standoffs
+After spending considerable time researching ([best resource](https://github.com/ps915/source_two)) and looking through drone frames, I started making my own. I did not want to change the things I had already modelled, so using those, along with the parts list as reference, I ended up with the frame pictured below.
+![Frame+Standoff](/img/frame.png)
+The main problem, along with taking care of all of the measurements, was to address aerodynamics to some degree. The main problem is that you don't want sharp edges, because although it may seem more intuitive, at sub-sonic speeds, it just ends up increasing drag and disrupting airflow. So, I tried to counteract that by fillet-ing the front and sides of the drone. This should help 'guide' the air around the frame, reducing friction. Along with that, I made the standoffs be the drone standard of 20 mm high, with M3 holes.
+![Side profile](/img/side_profile.png)
+Overall, while it may not look like much, I am proud of this design and am surprised by how much thought needs to be put in when designing and considering the placements of parts.
+
+**Total time spent: 7h**
