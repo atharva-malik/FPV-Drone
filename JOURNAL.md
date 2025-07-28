@@ -1,9 +1,10 @@
 ---
-title: "2-in-1 Cinema+FPV drone"
+title: "Ghast drone"
 author: "@Chaos"
-description: "A drone that can be switched from FPV to Cinema mode from the flick of a switch"
+description: "A drone that is flown as a Ghast"
 created_at: "2025-05-06"
 ---
+## Total Time Spent: 35 hrs
 # May 5th: Researched Parts and started BOM
 
 I am researching the parts required to build the drone. [This](https://oscarliang.com/) website has been a great help and has helped me finalise my parts list. The BOM will soon be added as a seperate file.
@@ -103,4 +104,23 @@ The main problem, along with taking care of all of the measurements, was to addr
 Overall, while it may not look like much, I am proud of this design and am surprised by how much thought needs to be put in when designing and considering the placements of parts.
 
 **Total time spent: 7h**
-![alt text](image.png)
+
+# July 28th: Project Redesign
+
+I had honestly given up on this project as you may be able to tell from the huge gap in the journal. During this time I was mainly focused on my upcoming assessments and this project took the back seat. However, while playing around in Minecraft, I was flying as a Ghast and therefore was wondering how enjoyable it would be to fly like that irl.
+
+While doing that, this project came to mind and I revisited it. I had already almost finished the frame. So I implemented the feedback I had received on it from the highway channel. 
+
+After finishing the frame, I started designing the Ghast, using the following images as a reference:
+![Ghast bottom](img/ghast_bottom.png)
+![Ghast front](img/ghast_front.png)
+
+These images combined with the fact that I knew the Ghast was 4x4x4 blocks, allowed me to fully model it. Note that I decided to go for 8 tentacles instead of the 9 as that seems to be the most common amount.
+
+For the tentacles, I wanted something more than just stationary, fixed rectangles, so I added three gantries to the bottom of the Ghast's body along with fillet's on the tentacles so that they can be re-ordered, added and removed as per the user's decision. The fillets will also allow them to interact with the air around, giving it a more realistic look. 
+
+I decided to fit the camera on the left eye and ensured to leave enough of a gap that it would fit.
+
+The rest of the BOM remains unchanged as the Ghast will be printed thanks to the printer legion
+
+**Total time spent: 5h**
