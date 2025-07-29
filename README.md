@@ -13,6 +13,10 @@ The total cost currently comes out to ~$300 USD, bear in mind that this is witho
 # Firmware
 For the firmware, I will be using the tried and tested [BetaFlight](https://betaflight.com/) firmware. This firmware is widely used in the FPV community and has a lot of features that will be useful for my drone. I should be able to customise it to give it the "floaty" feel of the Ghast.
 
+# Wiring Instructions
+All of the parts need to be wired according to the following schematic:
+![Schematic](img/schem.png)
+
 # 3D Printed Parts
 The 3D printed parts are all under the 3D Models folder in the repository. It contains the STL files for a carrying case, a GoPro mount, and the Ghast body and tentacles. The 3D printed parts are all designed to be printed with standard PLA filament.
 
