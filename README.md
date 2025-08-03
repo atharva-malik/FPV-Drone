@@ -7,7 +7,20 @@ I have attached the picture of the look that I am going for. I will replace this
 
 # BOM
 The BOM is available in the [BOM.csv](BOM.csv) file. It contains all the parts required to build the drone, along with links to where they can be purchased. On a glance:
-![BOM](img/BOM.png)
+|Part Name| Source| Price|
+|HappyModel EP1 EP2 RX 2.4G ExpressLRS| https://www.aliexpress.com/item/1005008247370304.html | $21.35|
+|Custom Frame| \3D Models\Frame Base.stl | $30|
+|iFlight XING-E Pro 2207 1800KV| https://www.aliexpress.com/item/1005007751252503.html | $85.66|
+|Gemfan Hurricane 51477 3-Blade| https://www.aliexpress.com/item/1005008235140623.html | $4.29|
+|SpeedyBee F405 Stack| https://www.aliexpress.com/item/1005005646570050.html | $136.07|
+|Caddx Ratel 2 V2| https://www.aliexpress.com/item/1005006156850612.html | $30.67|
+|XILO STAX 5.8GHz FPV Video Transmitter (25-600mW) w/ Smart Audio| https://www.getfpv.com/xilo-stax-5-8ghz-fpv-video-transmitter-25-600mw.html | $38.99|
+|6S 1480mAh 150C Battery| https://www.aliexpress.com/item/1005007537503660.html | $73.84|
+|Lipo Charger| https://uk.banggood.com/IMAX-B6-80W-6A-Lipo-Battery-Balance-Charger-T-Plug-with-Power-Supply-Adapter-p-1401686.html | $39.75|
+|Heat Shrink| https://www.aliexpress.com/item/1005005088669576.html | $11.51|
+|DVR| https://au.banggood.com/Eachine-ProDVR-Pro-DVR-Video-Audio-Mini-Recorder-for-FPV-Multicopters-for-RC-Drone-FPV-Racing-p-1061196.html | $16.11|
+|GRAND TOTAL (AUD) | | $488.24|
+|GRAND TOTAL (USD) | | $316.58|
 The total cost currently comes out to ~$300 USD, bear in mind that this is without the cost of the 3D printed parts or the shipping costs. The cost of the drone parts will vary depending on where you live and where you buy the parts from.
 
 # Firmware
