@@ -22,6 +22,7 @@ The BOM is available in the [BOM.csv](BOM.csv) file. It contains all the parts r
 |DVR| https://au.banggood.com/Eachine-ProDVR-Pro-DVR-Video-Audio-Mini-Recorder-for-FPV-Multicopters-for-RC-Drone-FPV-Racing-p-1061196.html | $16.11|
 |GRAND TOTAL (AUD) | | $488.24|
 |GRAND TOTAL (USD) | | $316.58|
+
 The total cost currently comes out to ~$300 USD, bear in mind that this is without the cost of the 3D printed parts or the shipping costs. The cost of the drone parts will vary depending on where you live and where you buy the parts from.
 
 # Firmware
