@@ -8,6 +8,7 @@ I have attached the picture of the look that I am going for. I will replace this
 # BOM
 The BOM is available in the [BOM.csv](BOM.csv) file. It contains all the parts required to build the drone, along with links to where they can be purchased. On a glance:
 | Part Name | Source | Price |
+|------|------|------|
 |HappyModel EP1 EP2 RX 2.4G ExpressLRS| https://www.aliexpress.com/item/1005008247370304.html | $21.35|
 |Custom Frame| \3D Models\Frame Base.stl | $30|
 |iFlight XING-E Pro 2207 1800KV| https://www.aliexpress.com/item/1005007751252503.html | $85.66|
